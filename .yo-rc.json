@@ -1,0 +1,17 @@
+{
+  "generator-gradle-plugin": {
+    "githubUser": "pravasna",
+    "authorName": "Pra",
+    "authorEmail": "pravasna@gmail.com",
+    "projectName": "gradle-server",
+    "projectGroup": "org.ucsc.devops",
+    "projectPackage": "org.ucsc.devops.server",
+    "projectVersion": "0.1.0",
+    "projectDesc": "test demo",
+    "pluginPortalDesc": "",
+    "pluginPortalTags": "demo",
+    "centralPublish": false,
+    "pluginPortalUseCustomGroup": false,
+    "usedGeneratorVersion": "2.0.1"
+  }
+}
